@@ -1,3 +1,5 @@
+Exercise 1 of Real Time Concepts for Embedded Systems - M.Sc Infotech. University of Stuttgart, Germany
+
 # 1. Setup
 ## 1.1 Linux
 1. Install CMake via [insert your favorite packet manager here]
@@ -44,3 +46,4 @@
             Message received from task
             [...]
     ```
+-> Build Folder Already present. Application can be directly launched
